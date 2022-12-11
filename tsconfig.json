@@ -8,7 +8,7 @@
     "strict": true,
     "target": "es2020",
     "esModuleInterop": true,
-    "moduleResolution": "Node",
+    "moduleResolution": "Node16",
     "lib": ["es2020"]
   },
   "ts-node": {
